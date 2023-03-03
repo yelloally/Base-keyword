@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ap98VQOQXd3XJwBh5t2zo2lxV9iPWFKnDgxHb0RVEGu42ZGFNW9XZIbggpgx0cCFVjd0qCuP2z7WfP2nhoxPng==",
+  "success": true,
+  "projectFilePath": "/Users/yellobunny/Projects/c_sharp/keyword_BASE/keyword_BASE.csproj",
+  "expectedPackageFiles": [
+    "/Users/yellobunny/.nuget/packages/microsoft.dotnet.platformabstractions/5.0.0-preview.5.20278.1/microsoft.dotnet.platformabstractions.5.0.0-preview.5.20278.1.nupkg.sha512"
+  ],
+  "logs": []
+}

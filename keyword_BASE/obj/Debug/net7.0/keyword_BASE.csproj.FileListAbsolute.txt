@@ -1,0 +1,17 @@
+/Users/yellobunny/Projects/c_sharp/keyword_BASE/bin/Debug/net7.0/keyword_BASE
+/Users/yellobunny/Projects/c_sharp/keyword_BASE/bin/Debug/net7.0/keyword_BASE.deps.json
+/Users/yellobunny/Projects/c_sharp/keyword_BASE/bin/Debug/net7.0/keyword_BASE.runtimeconfig.json
+/Users/yellobunny/Projects/c_sharp/keyword_BASE/bin/Debug/net7.0/keyword_BASE.dll
+/Users/yellobunny/Projects/c_sharp/keyword_BASE/bin/Debug/net7.0/keyword_BASE.pdb
+/Users/yellobunny/Projects/c_sharp/keyword_BASE/bin/Debug/net7.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/yellobunny/Projects/c_sharp/keyword_BASE/obj/Debug/net7.0/keyword_BASE.csproj.AssemblyReference.cache
+/Users/yellobunny/Projects/c_sharp/keyword_BASE/obj/Debug/net7.0/keyword_BASE.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yellobunny/Projects/c_sharp/keyword_BASE/obj/Debug/net7.0/keyword_BASE.AssemblyInfoInputs.cache
+/Users/yellobunny/Projects/c_sharp/keyword_BASE/obj/Debug/net7.0/keyword_BASE.AssemblyInfo.cs
+/Users/yellobunny/Projects/c_sharp/keyword_BASE/obj/Debug/net7.0/keyword_BASE.csproj.CoreCompileInputs.cache
+/Users/yellobunny/Projects/c_sharp/keyword_BASE/obj/Debug/net7.0/keyword_BASE.csproj.CopyComplete
+/Users/yellobunny/Projects/c_sharp/keyword_BASE/obj/Debug/net7.0/keyword_BASE.dll
+/Users/yellobunny/Projects/c_sharp/keyword_BASE/obj/Debug/net7.0/refint/keyword_BASE.dll
+/Users/yellobunny/Projects/c_sharp/keyword_BASE/obj/Debug/net7.0/keyword_BASE.pdb
+/Users/yellobunny/Projects/c_sharp/keyword_BASE/obj/Debug/net7.0/keyword_BASE.genruntimeconfig.cache
+/Users/yellobunny/Projects/c_sharp/keyword_BASE/obj/Debug/net7.0/ref/keyword_BASE.dll
